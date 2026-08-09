@@ -7,6 +7,7 @@
 | [0415-add-strings](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -47,6 +48,7 @@
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -56,6 +58,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshamxx/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -117,14 +120,17 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/1406-stone-game-iii/) | Hard |
 ## Queue
 |  |
@@ -167,4 +173,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshamxx/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
