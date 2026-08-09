@@ -33,6 +33,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0415-add-strings](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0415-add-strings) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sakshamxx/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshamxx/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sakshamxx/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshamxx/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
