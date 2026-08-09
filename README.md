@@ -3,6 +3,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sakshamxx/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -115,6 +116,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sakshamxx/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
