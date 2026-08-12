@@ -54,6 +54,7 @@
 | [1140-stone-game-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshamxx/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Sakshamxx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshamxx/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshamxx/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
