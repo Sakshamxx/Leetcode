@@ -51,6 +51,7 @@
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sakshamxx/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1140-stone-game-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sakshamxx/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Sakshamxx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sakshamxx/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
