@@ -47,6 +47,7 @@
 | [0011-container-with-most-water](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0051-n-queens](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshamxx/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -173,6 +174,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshamxx/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sakshamxx/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -188,6 +190,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Sakshamxx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshamxx/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sakshamxx/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshamxx/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
