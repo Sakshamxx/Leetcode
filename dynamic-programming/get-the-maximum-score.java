@@ -59,6 +59,6 @@ class Solution {
 
         ans += Math.max(sum1, sum2);
 
-        return (int) ans;
+        return (int)(ans % 1000000007);
     }
 }
