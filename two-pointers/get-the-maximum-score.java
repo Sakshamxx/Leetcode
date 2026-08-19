@@ -45,16 +45,16 @@ class Solution {
 
         long sum1 = 0;
 
-        while (i < nums1.length) {
-            sum1 += nums1[i];
-            i++;
+        while (s1 < nums1.length) {
+            sum1 += nums1[s1];
+            s1++;
         }
 
         long sum2 = 0;
 
-        while (j < nums2.length) {
-            sum2 += nums2[j];
-            j++;
+        while (s2 < nums2.length) {
+            sum2 += nums2[s2];
+            s2++;
         }
 
         ans += Math.max(sum1, sum2);
