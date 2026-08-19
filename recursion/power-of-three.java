@@ -5,7 +5,7 @@ class Solution {
         }
 
         double power = Math.log(n) / Math.log(3);
-        int x = (int) power;
+        long x = Math.round(power);
 
         return Math.pow(3, x) == n;
     }
