@@ -61,6 +61,7 @@
 | [1406-stone-game-iii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sakshamxx/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1537-get-the-maximum-score](https://github.com/Sakshamxx/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [2029-stone-game-ix](https://github.com/Sakshamxx/Leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshamxx/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -74,6 +75,7 @@
 | [1140-stone-game-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Sakshamxx/Leetcode/tree/master/1510-stone-game-iv) |
+| [1537-get-the-maximum-score](https://github.com/Sakshamxx/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshamxx/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -120,6 +122,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
+| [1537-get-the-maximum-score](https://github.com/Sakshamxx/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [2029-stone-game-ix](https://github.com/Sakshamxx/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -210,6 +213,7 @@
 | [0011-container-with-most-water](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Sakshamxx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshamxx/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1537-get-the-maximum-score](https://github.com/Sakshamxx/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sakshamxx/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshamxx/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
