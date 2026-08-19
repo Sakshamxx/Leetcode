@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sakshamxx/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Sakshamxx/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sakshamxx/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Sakshamxx/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -192,6 +194,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sakshamxx/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 ## Algorithm X
 |  |
