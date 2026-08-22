@@ -9,6 +9,6 @@ class Solution {
             prod *= digit;
             i /= 10;
         }
-        return (sum + prod) == n;
+        return n % (sum + prod) == 0;
     }
 }
