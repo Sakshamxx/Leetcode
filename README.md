@@ -64,6 +64,7 @@
 | [1537-get-the-maximum-score](https://github.com/Sakshamxx/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [2029-stone-game-ix](https://github.com/Sakshamxx/Leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshamxx/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sakshamxx/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 |  |
@@ -108,6 +109,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshamxx/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sakshamxx/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Combinatorics
 |  |
