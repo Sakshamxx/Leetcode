@@ -41,6 +41,7 @@ class Solution {
         }
 
         String ans = buildPalindrome(half, middle, n);
+
         if (ans.compareTo(target) > 0)
             return ans;
 
@@ -57,6 +58,7 @@ class Solution {
                 halfFreq[x]--;
 
                 int pos = i + 1;
+
                 for (int y = 0; y < 26; y++) {
                     while (halfFreq[y] > 0) {
                         half[pos++] = (char) ('a' + y);
@@ -65,10 +67,12 @@ class Solution {
                 }
 
                 ans = buildPalindrome(half, middle, n);
+
                 if (ans.compareTo(target) > 0)
                     return ans;
 
                 Arrays.fill(halfFreq, 0);
+
                 for (char ch : half)
                     halfFreq[ch - 'a']++;
             }
@@ -88,22 +92,28 @@ class Solution {
             freq[x]--;
 
             int index = pos + 1;
+
             for (int y = 0; y < 26; y++) {
-                while (freq[y] > 0)
+                while (freq[y] > 0) {
                     half[index++] = (char) ('a' + y);
+                    freq[y]--;
+                }
             }
 
             String ans = buildPalindrome(half, middle, n);
+
             if (ans.compareTo(target) > 0)
                 return ans;
 
             Arrays.fill(freq, 0);
+
             for (char ch : half)
                 freq[ch - 'a']++;
         }
 
         for (int i = pos - 1; i >= 0; i--) {
             freq[half[i] - 'a']++;
+
             int targetChar = target.charAt(i) - 'a';
 
             for (int x = targetChar + 1; x < 26; x++) {
@@ -114,16 +124,21 @@ class Solution {
                 freq[x]--;
 
                 int index = i + 1;
+
                 for (int y = 0; y < 26; y++) {
-                    while (freq[y] > 0)
+                    while (freq[y] > 0) {
                         half[index++] = (char) ('a' + y);
+                        freq[y]--;
+                    }
                 }
 
                 String ans = buildPalindrome(half, middle, n);
+
                 if (ans.compareTo(target) > 0)
                     return ans;
 
                 Arrays.fill(freq, 0);
+
                 for (char ch : half)
                     freq[ch - 'a']++;
             }
