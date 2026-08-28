@@ -44,6 +44,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sakshamxx/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sakshamxx/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sakshamxx/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sakshamxx/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Database
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [1537-get-the-maximum-score](https://github.com/Sakshamxx/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sakshamxx/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshamxx/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sakshamxx/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
