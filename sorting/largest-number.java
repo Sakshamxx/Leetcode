@@ -12,7 +12,10 @@ class Solution {
         for (int i = arr.length - 1; i >= 0; i--){
             sb.append(arr[i]);
         }
+        if (sb.charAt(0) == '0'){
+            return "0";
+        }else{
         return sb.toString();
-        
+        }
     }
 }
