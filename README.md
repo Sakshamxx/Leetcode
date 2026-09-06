@@ -35,6 +35,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Sakshamxx/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0415-add-strings](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0415-add-strings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sakshamxx/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Sakshamxx/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/Sakshamxx/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sakshamxx/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
