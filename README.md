@@ -19,6 +19,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/Sakshamxx/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Sorting
 |  |
 | ------- |
