@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
 
     class Interval {
@@ -15,10 +17,10 @@ class Solution {
     }
 
     class State {
-        int score;
+        long score;
         List<Integer> indices;
 
-        State(int score, List<Integer> indices) {
+        State(long score, List<Integer> indices) {
             this.score = score;
             this.indices = indices;
         }
@@ -33,7 +35,6 @@ class Solution {
         n = intervals.size();
         arr = new Interval[n];
 
-        // Store original index
         for (int i = 0; i < n; i++) {
             arr[i] = new Interval(
                 intervals.get(i).get(0),
@@ -43,7 +44,6 @@ class Solution {
             );
         }
 
-        // Sort by starting position
         Arrays.sort(arr, (a, b) -> {
             if (a.start != b.start) {
                 return Integer.compare(a.start, b.start);
@@ -66,19 +66,18 @@ class Solution {
 
     private State solve(int i, int chosen) {
 
-        // We can choose at most 4 intervals
         if (i == n || chosen == 4) {
-            return new State(0, new ArrayList<>());
+            return new State(0L, new ArrayList<>());
         }
 
         if (dp[i][chosen] != null) {
             return dp[i][chosen];
         }
 
-        // Option 1: Don't choose this interval
+        // Don't take current interval
         State skip = solve(i + 1, chosen);
 
-        // Option 2: Choose this interval
+        // Take current interval
         int next = findNext(i);
 
         State nextState = solve(next, chosen + 1);
@@ -88,7 +87,6 @@ class Solution {
 
         indices.add(arr[i].index);
 
-        // Sort indices because answer must be lexicographically smallest
         Collections.sort(indices);
 
         State take = new State(
@@ -106,7 +104,6 @@ class Solution {
         int left = i + 1;
         int right = n;
 
-        // Need start > current end
         while (left < right) {
 
             int mid = left + (right - left) / 2;
@@ -123,12 +120,10 @@ class Solution {
 
     private State better(State a, State b) {
 
-        // Higher score is better
         if (a.score != b.score) {
             return a.score > b.score ? a : b;
         }
 
-        // Same score → lexicographically smaller indices
         if (isSmaller(a.indices, b.indices)) {
             return a;
         }
