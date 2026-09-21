@@ -17,6 +17,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Sakshamxx/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Sakshamxx/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -70,6 +71,7 @@
 | [2029-stone-game-ix](https://github.com/Sakshamxx/Leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshamxx/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sakshamxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Sakshamxx/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sakshamxx/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Sakshamxx/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -88,6 +90,7 @@
 | [1510-stone-game-iv](https://github.com/Sakshamxx/Leetcode/tree/master/1510-stone-game-iv) |
 | [1537-get-the-maximum-score](https://github.com/Sakshamxx/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshamxx/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3524-find-x-value-of-array-i](https://github.com/Sakshamxx/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
 | ------- |
