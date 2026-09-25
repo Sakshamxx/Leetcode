@@ -1,51 +1,62 @@
-import java.util.*;
-
 class Solution {
-    int index = 0;
     public List<String> braceExpansionII(String expression) {
-        Set<String> result = parse(expression);
-        List<String> answer = new ArrayList<>(result);
-        Collections.sort(answer);
-        return answer;
+        return new ArrayList<>(parse(expression, 0).set);
     }
 
-    private Set<String> parse(String expression) {
-        Set<String> result = new HashSet<>();
-        Set<String> current = new HashSet<>();
+    private static class Result {
+        Set<String> set;
+        int index;
+
+        Result(Set<String> set, int index) {
+            this.set = set;
+            this.index = index;
+        }
+    }
+
+    private Result parse(String s, int index) {
+        Set<String> result = new TreeSet<>();
+        Set<String> current = new TreeSet<>();
         current.add("");
-        while (index < expression.length()
-                && expression.charAt(index) != '}') {
-            char ch = expression.charAt(index);
-            if (ch == ',') {
+
+        while (index < s.length() && s.charAt(index) != '}') {
+            if (s.charAt(index) == '{') {
+                Result sub = parse(s, index + 1);
+                index = sub.index + 1;
+                current = multiply(current, sub.set);
+            } else if (s.charAt(index) == ',') {
                 result.addAll(current);
-                current = new HashSet<>();
+                current = new TreeSet<>();
                 current.add("");
                 index++;
-            }
-            else if (ch == '{') {
-                index++; 
-                Set<String> next = parse(expression);
-                index++; 
-                current = combine(current, next);
-            }
-            else {
-                index++;
-                Set<String> next = new HashSet<>();
-                next.add(String.valueOf(ch));
-                current = combine(current, next);
+            } else {
+                StringBuilder word = new StringBuilder();
+
+                while (index < s.length() &&
+                       Character.isLetter(s.charAt(index))) {
+                    word.append(s.charAt(index));
+                    index++;
+                }
+
+                Set<String> wordSet = new TreeSet<>();
+                wordSet.add(word.toString());
+
+                current = multiply(current, wordSet);
             }
         }
+
         result.addAll(current);
-        return result;
+        return new Result(result, index);
     }
 
-    private Set<String> combine(Set<String> first, Set<String> second) {
-        Set<String> result = new HashSet<>();
-        for (String a : first) {
-            for (String b : second) {
-                result.add(a + b);
+    private Set<String> multiply(Set<String> a, Set<String> b) {
+        Set<String> result = new TreeSet<>();
+
+        for (String x : a) {
+            for (String y : b) {
+                result.add(x + y);
             }
         }
+
         return result;
     }
 }
