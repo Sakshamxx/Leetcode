@@ -27,6 +27,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -40,6 +41,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Sakshamxx/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0415-add-strings](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0415-add-strings) |
+| [1096-brace-expansion-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sakshamxx/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -98,6 +100,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshamxx/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -122,6 +125,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Sakshamxx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshamxx/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sakshamxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -155,6 +159,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0051-n-queens/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Recursion
 |  |
@@ -294,4 +299,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Sakshamxx/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
