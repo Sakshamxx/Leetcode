@@ -43,6 +43,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Sakshamxx/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0415-add-strings](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0415-add-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshamxx/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sakshamxx/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sakshamxx/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -105,6 +106,7 @@
 | [0020-valid-parentheses](https://github.com/Sakshamxx/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshamxx/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshamxx/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sakshamxx/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sakshamxx/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -154,6 +156,7 @@
 | [0011-container-with-most-water](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Sakshamxx/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshamxx/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1537-get-the-maximum-score](https://github.com/Sakshamxx/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [2029-stone-game-ix](https://github.com/Sakshamxx/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -317,6 +320,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sakshamxx/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamxx/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshamxx/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sakshamxx/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sakshamxx/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
