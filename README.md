@@ -8,6 +8,7 @@
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Sakshamxx/Leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Sakshamxx/Leetcode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1140-stone-game-ii) |
@@ -239,6 +240,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshamxx/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Sakshamxx/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Sakshamxx/Leetcode/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Sakshamxx/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sakshamxx/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
