@@ -297,14 +297,17 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshamxx/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Sakshamxx/Leetcode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshamxx/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Sakshamxx/Leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshamxx/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Sakshamxx/Leetcode/tree/master/0101-symmetric-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sakshamxx/Leetcode/tree/master/0101-symmetric-tree) |
 | [1096-brace-expansion-ii](https://github.com/Sakshamxx/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
